@@ -28,14 +28,17 @@ Above contains a regression model as well as the statistics for varibales such a
 
 ## Population Sums
 
+These plots display the difference of sums for populations, which were generated after calculating the difference between each of my predicted populations and the correlating actual populations of Cuba. From this information, it was concluded that the plot for the difference of sums produced the best results because it yielded the smallest result (9544720).
 ![](cub_pop_sums.png)
 ![](cub_diff_sums.png)
+The 2 plots above begin to display the urban areas throughout Cuba, with the most highly populated region being Ciudad de la Habana, which aligns with the information about population above.
 ![](cuba_sums_3D.png)
+This 3D plot displays the most densely populated areas with spikes; these spikes mainly reside in the northern areas of Cuba because that is where the most developed cities are located.
 
 ## Urban Areas
 
 ![](cub_pop15.png)
-![](urbanarea.png)
+![](urbanareas.png)
 
 ## Cuba's Human Settlements, Roadways, and Healthcare Facilities
 
