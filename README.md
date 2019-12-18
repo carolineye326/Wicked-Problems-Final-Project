@@ -16,17 +16,18 @@ This is my final project on Cuba! (づ｡◕‿‿◕｡)づ
 ![](statistics.png)
 ![](havana_diff.png)
 
-## Cuba Population Sums
+## Population Sums
 
 ![](cub_pop_sums.png)
 ![](cub_diff_sums.png)
-![](cuba_sums_3D)
+![](cuba_sums_3D.png)
 
-## Cuba Urban Areas
+## Urban Areas
 
 ![](cub_pop15.png)
-![](Urbanized Areas Las Tunas Plot)
+![](urbanarea.png)
 
 ## Cuba's Human Settlements, Roadways, and Healthcare Facilities
 
 ![](healthcare_cuba.png)
+![](final3Dplot.png)
