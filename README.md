@@ -8,7 +8,7 @@ This is my final project on Cuba, where I will present to you the different meth
 
 ![](adms.png)
 
-This plot depicts the national (adm0) and provincial (adm1) boundaries of Cuba, an island nation in the Caribbean Sea. Its most popular province is Ciudad de la Habana, wherein its capital, Havana, is located. Surrounding the main island are smaller pieces of land that did not contain any data regarding its populations; these smaller pieces of land also caused the generation of these plots to occur very slowly, making it difficult to not only plot the adm0 and adm1 data, but hindering the plotting of Cuba's district (adm2) boundaries.
+This plot depicts the national (adm0) and provincial (adm1) boundaries of Cuba, an island nation in the Caribbean Sea that contains 15 provinces. Its most popular province is Ciudad de la Habana, wherein its capital, Havana, is located. Surrounding the main island are smaller pieces of land that did not contain any data regarding its populations; these smaller pieces of land also caused the generation of these plots to occur very slowly, making it difficult to not only plot the adm0 and adm1 data, but hindering the plotting of Cuba's district (adm2) boundaries.
 
 Below is a plot of the same boundaries, but also displaying the population densities of each province in 2019.
 
@@ -42,7 +42,10 @@ This plot begins to display the most populated area of Las Tunas, which is locat
 ![](urbanareas.png)
 The above plot illustrates Las Tunas' population density in more detail. Las Tunas has a total population of 207,786 people with a total of 7 urban areas throughout the region; the red dot in its central region depicts where the province is most highly populated, which correlates with its urban areas, while the 6 smaller yellow dots represent where the other main urban areas reside. 
 
+From here, I then added roadways and healthcare facilities to observe how urban developments correlate with overall population in the region.
+
 ## Cuba's Human Settlements, Roadways, and Healthcare Facilities
 
 ![](healthcare_cuba.png)
+
 ![](final3Dplot.png)
