@@ -36,9 +36,11 @@ The 2 plots above begin to display the urban areas throughout Cuba, with the mos
 This 3D plot displays the most densely populated areas with spikes; these spikes mainly reside in the northern areas of Cuba because that is where the most developed cities are located.
 
 ## Urban Areas
-
+From here we being to zoom in on a specific province of Cuba. I chose to focus on Las Tunas, a municipality in central-eastern Cuba.
 ![](cub_pop15.png)
+This plot begins to display the most populated area of Las Tunas, which is located in its central region.
 ![](urbanareas.png)
+The above plot illustrates Las Tunas' population density in more detail. Las Tunas has a total population of 207,786 people with a total of 7 urban areas throughout the region; the red dot in its central region depicts where the province is most highly populated, which correlates with its urban areas, while the 6 smaller yellow dots represent where the other main urban areas reside. 
 
 ## Cuba's Human Settlements, Roadways, and Healthcare Facilities
 
