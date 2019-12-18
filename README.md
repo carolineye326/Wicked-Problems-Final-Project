@@ -16,8 +16,7 @@ Below is a plot of the same boundaries, but also displaying the population densi
 ## Population of Cuba's Regions
 
 ![](cubaproject.png)
-![](histogram2.png)
-![](histogram3.png)
+![](histograms.png)
 ![](cuba_reg_model.png)
 ![](statistics.png)
 ![](havana_diff.png)
