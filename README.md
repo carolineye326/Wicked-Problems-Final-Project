@@ -13,5 +13,5 @@ This is my final project on Cuba! (づ｡◕‿‿◕｡)づ
 ![](histogram2.png)
 ![](histogram3.png)
 ![](cuba_reg_model.png)
-![](Screen Shot 2019-10-15 at 4.46.45 PM.png)
-![](
+![](statistics.png)
+![](havana_diff.png)
