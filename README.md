@@ -47,5 +47,7 @@ From here, I then added roadways and healthcare facilities to observe how urban 
 ## Cuba's Human Settlements, Roadways, and Healthcare Facilities
 
 ![](healthcare_cuba.png)
-
+Because the highest density of human settlements is located in the center of the province, that is also where the main cluster of roads and hospitals are located, ensuring that people are within a distant proximity to healthcare and travel services. The rest of the human settlements are scattered roughly equally throughout the region. While most of these other settlements are located along a main road, the two that are relatively isolated are located within a wet area characterized by mangroves in which sugarcane is primarily grown. This means that these relatively isolated areas are reserved for farming and thus explaining the meager amount of resources.
+![](chart.png)
 ![](final3Dplot.png)
+
